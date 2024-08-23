@@ -44,4 +44,4 @@
 
 ##
 
-![Sanke animation](https://github.com/denisilvagit/blob/putput/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/denisilvagit/blob/putput/github-contribution-grid-snake.svg)
